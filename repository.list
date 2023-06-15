@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/Debian.gpg] https://catalystdevorg.github.io/Debian ./

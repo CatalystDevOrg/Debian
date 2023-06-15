@@ -1,0 +1,18 @@
+Package: catalyst
+Version: 3.4.9
+Architecture: amd64
+Maintainer: CatalystDevOrg
+Installed-Size: 239455
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: ./catalyst_3.4.9_amd64.deb
+Size: 75068584
+MD5sum: 72bbb6cddbfdd420584f8794b73a9038
+SHA1: ffa81b597ea6857dbc6628783be93bd9f7c0080d
+SHA256: d55014c9dcad13cc12db3cf8822a30bcf9c0e5ba7e677357f05c5e8e3b1c04ad
+Section: utils
+Priority: optional
+Description: A minimal Electron Web Browser
+ A minimal Electron Web Browser
+
