@@ -16,3 +16,21 @@ Priority: optional
 Description: A minimal Electron Web Browser
  A minimal Electron Web Browser
 
+Package: catalyst-lts
+Version: 3.1.11-lts
+Architecture: amd64
+Maintainer: JaydenDev
+Installed-Size: 247719
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: ./catalyst-lts_3.1.11-lts_amd64.deb
+Size: 75840710
+MD5sum: cec8ae03c1a0a24b63a29a6287855ac8
+SHA1: f9ef99e5e1a4f16cda21369a48b1353be56e673b
+SHA256: 0c9222f119ee13d18993f7c64e51a8025d9f06c2cd5c22d33f4b9cafe1f26a38
+Section: utils
+Priority: optional
+Description: A minimal Electron Web Browser
+ A minimal Electron Web Browser
+
