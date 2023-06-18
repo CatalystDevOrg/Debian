@@ -1,3 +1,27 @@
+Package: calamares-settings-debian
+Version: 12.0.9-1
+Architecture: all
+Maintainer: Jonathan Carter <jcc@debian.org>
+Installed-Size: 314
+Depends: calamares, cryptsetup, keyutils, pkexec, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
+Provides: calamares-settings
+Filename: ./calamares-settings-debian.deb
+Size: 171492
+MD5sum: 4246445f57c220de032608832249dc50
+SHA1: 0e77937f1194ec80ff6e32a567bad8cbeeb46065
+SHA256: ae7405a4cbfe4f28b2bd54f6792e60c261d9f4281d43db99dbef5625cda7fd06
+Section: utils
+Priority: optional
+Homepage: https://salsa.debian.org/live-team/calamares-settings-debian
+Description: Debian theme and settings for the Calamares Installer
+ Calamares is a generic installer framework for Linux distributions.
+ By default, it contains a set of boilerplate wording and images. This
+ package provides the latest Debian artwork as well as scripts that
+ supports EFI installations.
+ .
+ It also serves as an example for how derivatives can create their own
+ calamares-settings packages.
+
 Package: catalyst
 Version: 3.4.9
 Architecture: amd64
